@@ -1,7 +1,7 @@
 #!/bin/bash
 
-export GITHUB_USER="FPSensor"
-export GITHUB_EMAIL="gkartytgmail.com"
+export GITHUB_USER="redznn"
+export GITHUB_EMAIL="h908659@gmail.com"
 
 export device=""
 
