@@ -3,15 +3,15 @@
 export GITHUB_USER="redznn"
 export GITHUB_EMAIL="h908659@gmail.com"
 
-export device=""
+export device="A20"
 
-export ROM=""
-export ROM_DIR="${WORKSPACE}"
-export ROM_VERSION=""
-export local_manifest_url=""
-export manifest_url=""
-export rom_vendor_name=""
-export branch=""
+export ROM="SuperiorOS"
+export ROM_DIR="~/redznn/SuperiorOS"
+export ROM_VERSION="twelvedotone"
+export local_manifest_url="https://raw.githubusercontent.com/redznn/local_manifests/eureka_deps.xml"
+export manifest_url="https://github.com/SuperiorOS/manifest"
+export rom_vendor_name="superior"
+export branch="twelvedotone"
 export bacon=bacon
 export buildtype=userdebug
 export clean=installclean
