@@ -12,18 +12,18 @@ export local_manifest_url=""
 export manifest_url=""
 export rom_vendor_name=""
 export branch=""
-export bacon=""
-export buildtype=""
-export clean=""
-export generate_incremental=""
-export upload_recovery=""
+export bacon=bacon
+export buildtype=userdebug
+export clean=installclean
+export generate_incremental=false
+export upload_recovery=false
 
-export ccache=""
-export ccache_size=""
+export ccache=true
+export ccache_size=50G
 
 export jenkins="true"
 
-export release_repo="FPSensor/releases"
-export RELEASES_DIR="${WORKSPACE}/releases"
+export release_repo="redznn/releases"
+export RELEASES_DIR="~/redznn/releases"
 
 export timezone="UTC"
