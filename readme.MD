@@ -1,1 +1,0 @@
-EOL- End of life
